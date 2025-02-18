@@ -815,8 +815,8 @@
         <mxCell id="EMkTe3N0qHzsAaziD_L5-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="EMkTe3N0qHzsAaziD_L5-2" target="EMkTe3N0qHzsAaziD_L5-264">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="-305" />
-              <mxPoint x="600" y="255" />
+              <mxPoint x="620" y="-305" />
+              <mxPoint x="620" y="255" />
             </Array>
           </mxGeometry>
         </mxCell>
