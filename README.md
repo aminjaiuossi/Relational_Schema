@@ -1,2 +1,2 @@
-# Simple-Library
-Relational Schema for Simple Library Project
+# Simple projects 
+Simple projects to practice the Relational Schema 
